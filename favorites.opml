@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head title="Favorieten">
+    <expansionState></expansionState>
+  </head>
+  <body>
+    <outline icon="https://i.imgur.com/q6iQfXE.jpg" text="Radio - Lounge &amp; Chill">
+      <outline URL="https://mscp4.live-streams.nl:8142/lounge.ogg" icon="https://i.imgur.com/X30o1Fe.png" text="Pure Lounge Radio (flac)" type="audio" />
+      <outline URL="http://188.138.9.183/digital.mp3" icon="https://i.imgur.com/52OdXnM.png" text="LoungeFM Digital (mp3)" type="audio" />
+      <outline URL="http://mediaserv33.live-streams.nl:8036/live" icon="/imageproxy/https%3A%2F%2Fwww.hionline.eu%2Fwp-content%2Fuploads%2F2015%2F09%2Funnamed-kopie.png/image.png" text="Hi On Line Lounge (mp3-high)" type="audio" />
+      <outline URL="https://chillout.zone/chillout_plus" icon="html/images/radio.png" text="Chill Out Zone Plus" type="audio" />
+      <outline URL="https://chillout.zone/chillout" icon="html/images/radio.png" text="Chill Out Zone" type="audio" />
+      <outline URL="https://chillout.zone/chillin_plus" icon="html/images/radio.png" text="Chill In Zone Plus" type="audio" />
+      <outline URL="https://chillout.zone/chillin" icon="html/images/radio.png" text="Chill In Zone" type="audio" />
+      <outline URL="https://streamserver.pure-isp.eu/listen/pure_radio_holland_-_downtempo_channel/ultra" icon="html/images/radio.png" text="Pure Radio - Down Tempo" type="audio" />
+      <outline URL="http://server9.streamserver24.com:18920/motherearth.instrumental" icon="https://i.imgur.com/6tGfZBj.png" text="Mother Earth Instrumental" type="audio" />
+    </outline>
+    <outline icon="https://i.imgur.com/YogqEip.png" text="Spotify - Playlists">
+      <outline URL="spotify:playlist:7ndAil8NcM1X52ZPbH2elu" icon="/imageproxy/https%3A%2F%2Fimage-cdn-ak.spotifycdn.com%2Fimage%2Fab67706c0000bebbb20498756658e317d7e31e8b/image.png" text="Lounge &amp; Chill [MPL]" type="playlist" />
+      <outline URL="spotify:playlist:5Zysk521vJ3j0oXUjgLGB5" icon="/imageproxy/https%3A%2F%2Fimage-cdn-ak.spotifycdn.com%2Fimage%2Fab67706c0000bebbd72a4f26112527ea13956bee/image.png" text="Lazy Evening [MPL]" type="playlist" />
+      <outline URL="spotify:playlist:6bPNtEkGubMN8j1lCBj7Ym" icon="/imageproxy/https%3A%2F%2Fimage-cdn-ak.spotifycdn.com%2Fimage%2Fab67706c0000bebb0c9bf8b3a74d6878d7b3e1e8/image.png" text="Dance &amp; Pop [MPL]" type="playlist" />
+      <outline URL="spotify:playlist:5iXP1mOIR0tdmBPN5iIKtD" icon="/imageproxy/https%3A%2F%2Fimage-cdn-ak.spotifycdn.com%2Fimage%2Fab67706c0000bebb013bba9e6967348c6aac3010/image.png" text="Christmas [MPL]" type="playlist" />
+      <outline URL="spotify:playlist:3D48geB6LVWbDxjJHzIfaG" icon="/imageproxy/https%3A%2F%2Fimage-cdn-ak.spotifycdn.com%2Fimage%2Fab67706c0000bebb1ae6fb25b92fc3e33970c5d4/image.png" text="Beach House [MPL]" type="playlist" />
+      <outline URL="spotify:playlist:1zFRedMEneaw3sV3zX0NcW" icon="/imageproxy/https%3A%2F%2Fimage-cdn-ak.spotifycdn.com%2Fimage%2Fab67706c0000bebb4585a8991ced84010592b5c0/image.png" text="70s, 80s and 90s [MPL]" type="playlist" />
+    </outline>
+    <outline icon="https://i.imgur.com/ZEhTuyk.png" text="Radio - 1.FM">
+      <outline URL="http://opml.radiotime.com/Tune.ashx?id=s74984&amp;formats=aac,ogg,mp3,wmpro,wma,wmvoice&amp;partnerId=16&amp;serial=4267ff619755223954eab3f23a93df5f" icon="https://i.imgur.com/8QMe15L.png" text="1.FM A List 80s - [Non-stop chart toppers of the 1980s]" type="audio" />
+      <outline URL="http://opml.radiotime.com/Tune.ashx?id=s126408&amp;formats=aac,ogg,mp3,wmpro,wma,wmvoice&amp;partnerId=16&amp;serial=4267ff619755223954eab3f23a93df5f" icon="https://i.imgur.com/Vvn2uQt.png" text="1.FM Spa - [Let your stress melt away and relax to soothing spa music]" type="audio" />
+      <outline URL="http://opml.radiotime.com/Tune.ashx?id=s139915&amp;formats=aac,ogg,mp3,wmpro,wma,wmvoice&amp;partnerId=16&amp;serial=4267ff619755223954eab3f23a93df5f" icon="https://i.imgur.com/AtQOw6w.png" text="1.FM Amsterdam Trance - [Uplifting vocals, top-charting beats, and exclusive tracks]" type="audio" />
+      <outline URL="http://opml.radiotime.com/Tune.ashx?id=s47718&amp;formats=aac,ogg,mp3,wmpro,wma,wmvoice&amp;partnerId=16&amp;serial=4267ff619755223954eab3f23a93df5f" icon="https://i.imgur.com/EjjFkou.png" text="1.FM Chillout Lounge - [Chill out to soft electronic melodies]" type="audio" />
+      <outline URL="http://opml.radiotime.com/Tune.ashx?id=s48967&amp;formats=aac,ogg,mp3,wmpro,wma,wmvoice&amp;partnerId=16&amp;serial=4267ff619755223954eab3f23a93df5f" icon="https://i.imgur.com/jLkbu04.png" text="1.FM Top 40 - [The songs you know. The artists you love. Top of the charts]" type="audio" />
+      <outline URL="http://opml.radiotime.com/Tune.ashx?id=s233141&amp;formats=aac,ogg,mp3,wmpro,wma,wmvoice&amp;partnerId=16&amp;serial=4267ff619755223954eab3f23a93df5f" icon="https://i.imgur.com/MT5fUhC.png" text="1.FM Cafe Radio - [A soft-rock and alt-pop blend]" type="audio" />
+      <outline URL="http://opml.radiotime.com/Tune.ashx?id=s214681&amp;formats=aac,ogg,mp3,wmpro,wma,wmvoice&amp;partnerId=16&amp;serial=4267ff619755223954eab3f23a93df5f" icon="https://i.imgur.com/k8hEFDK.png" text="1.FM Love Classics - [True love, heartache, and everything in between]" type="audio" />
+      <outline URL="http://opml.radiotime.com/Tune.ashx?id=s306581&amp;formats=aac,ogg,mp3,wmpro,wma,wmvoice&amp;partnerId=16&amp;serial=4267ff619755223954eab3f23a93df5f" icon="https://i.imgur.com/eBKyBNz.png" text="1.FM Tropical House - [Chill tropical house hits inspired by sunny Ibiza]" type="audio" />
+      <outline URL="http://opml.radiotime.com/Tune.ashx?id=s214666&amp;formats=aac,ogg,mp3,wmpro,wma,wmvoice&amp;partnerId=16&amp;serial=4267ff619755223954eab3f23a93df5f" icon="https://i.imgur.com/IyauAva.png" text="1.FM Bossa Nova Hits Radio - [A lyrical fusion of soft samba and jazz]" type="audio" />
+      <outline URL="http://opml.radiotime.com/Tune.ashx?id=s214677&amp;formats=aac,ogg,mp3,wmpro,wma,wmvoice&amp;partnerId=16&amp;serial=4267ff619755223954eab3f23a93df5f" icon="https://i.imgur.com/IQKKHQP.png" text="1.FM Funky Express Radio - [Funk, groove and soul's finest]" type="audio" />
+      <outline URL="http://opml.radiotime.com/Tune.ashx?id=s47721&amp;formats=aac,ogg,mp3,wmpro,wma,wmvoice&amp;partnerId=16&amp;serial=4267ff619755223954eab3f23a93df5f" icon="https://i.imgur.com/nJmQzBf.png" text="1.FM Dance One Radio - [All dance, all hits, all the time, full-on non-stop party]" type="audio" />
+      <outline URL="http://opml.radiotime.com/Tune.ashx?id=s214675&amp;formats=aac,ogg,mp3,wmpro,wma,wmvoice&amp;partnerId=16&amp;serial=4267ff619755223954eab3f23a93df5f" icon="https://i.imgur.com/jisjF5K.png" text="1.FM Rock Classics Radio - [Rock Classics ... No One Rocks Like Us]" type="audio" />
+      <outline URL="http://opml.radiotime.com/Tune.ashx?id=s47723&amp;formats=aac,ogg,mp3,wmpro,wma,wmvoice&amp;partnerId=16&amp;serial=4267ff619755223954eab3f23a93df5f" icon="https://i.imgur.com/0pemau8.png" text="1.FM Bay Smooth Jazz - [Contemporary Jazz and soothing melodies]" type="audio" />
+      <outline URL="http://opml.radiotime.com/Tune.ashx?id=s306578&amp;formats=aac,ogg,mp3,wmpro,wma,wmvoice&amp;partnerId=16&amp;serial=4267ff619755223954eab3f23a93df5f" icon="https://i.imgur.com/5Oz5tWt.png" text="1.FM Comfort Pop - [Songs you know all the words to]" type="audio" />
+      <outline URL="http://opml.radiotime.com/Tune.ashx?id=s9115&amp;formats=aac,ogg,mp3,wmpro,wma,wmvoice&amp;partnerId=16&amp;serial=4267ff619755223954eab3f23a93df5f" icon="https://i.imgur.com/tZjjf4A.png" text="1.FM Absolute 70's Pop Radio - [Back to the good old days with the mixed flavor of the 1970s]" type="audio" />
+      <outline URL="http://opml.radiotime.com/Tune.ashx?id=s47724&amp;formats=aac,ogg,mp3,wmpro,wma,wmvoice&amp;partnerId=16&amp;serial=4267ff619755223954eab3f23a93df5f" icon="https://i.imgur.com/XzfzwYy.png" text="1.FM Absolute Trance (Euro) Radio - [Full on, melodic and progressive trance from Europe and around the world]" type="audio" />
+      <outline URL="http://opml.radiotime.com/Tune.ashx?id=s214684&amp;formats=aac,ogg,mp3,wmpro,wma,wmvoice&amp;partnerId=16&amp;serial=4267ff619755223954eab3f23a93df5f" icon="https://i.imgur.com/LccgziW.png" text="1.FM Magic 80 Radio - [Solid hits and golden tunes from the early MTV era]" type="audio" />
+      <outline URL="http://opml.radiotime.com/Tune.ashx?id=s98675&amp;formats=aac,ogg,mp3,wmpro,wma,wmvoice&amp;partnerId=16&amp;serial=4267ff619755223954eab3f23a93df5f" icon="https://i.imgur.com/I7zJcma.png" text="1.FM Millennial Nostalgia - [Millennial Nostalgia will bring you back to simpler times]" type="audio" />
+      <outline URL="http://opml.radiotime.com/Tune.ashx?id=s74983&amp;formats=aac,ogg,mp3,wmpro,wma,wmvoice&amp;partnerId=16&amp;serial=4267ff619755223954eab3f23a93df5f" icon="https://i.imgur.com/DFc326x.png" text="1.FM All Euro 80's Radio - [Euro-pop mania, post-disco, hi-nrg beats and 12''s from the 1980s]" type="audio" />
+      <outline URL="http://opml.radiotime.com/Tune.ashx?id=s74987&amp;formats=aac,ogg,mp3,wmpro,wma,wmvoice&amp;partnerId=16&amp;serial=4267ff619755223954eab3f23a93df5f" icon="https://i.imgur.com/WPTisvB.png" text="1.FM Disco Ball 70's-80's Radio - [Taking you back to the days of Disco]" type="audio" />
+      <outline URL="http://opml.radiotime.com/Tune.ashx?id=s74985&amp;formats=aac,ogg,mp3,wmpro,wma,wmvoice&amp;partnerId=16&amp;serial=4267ff619755223954eab3f23a93df5f" icon="https://i.imgur.com/z0j2BnS.png" text="1.FM Absolute 90s Radio - [A throwback to the 20th century's wrap-up decade with only the best music of the 90s covering all genres]" type="audio" />
+      <outline URL="http://opml.radiotime.com/Tune.ashx?id=s89763&amp;formats=aac,ogg,mp3,wmpro,wma,wmvoice&amp;partnerId=16&amp;serial=4267ff619755223954eab3f23a93df5f" icon="https://i.imgur.com/vyLjdEQ.png" text="1.FM Always-Christmas Radio - [The holiday season never stops here]" type="audio" />
+      <outline URL="http://opml.radiotime.com/Tune.ashx?id=s309722&amp;formats=aac,ogg,mp3,wmpro,wma,wmvoice&amp;partnerId=16&amp;serial=4267ff619755223954eab3f23a93df5f" icon="https://i.imgur.com/n0H2s7l.png" text="1.FM Costa Del Mar - [Vibe out to ambient and lounge music. Costa Del Mar is easy listening inspired by the sea]" type="audio" />
+    </outline>
+    <outline icon="https://i.imgur.com/orb5crh.png" text="Radio - Radio 538">
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3" icon="https://i.imgur.com/UBM3Kcj.png" text="Radio 538" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08.mp3" icon="https://i.imgur.com/4UU0P1i.png" text="Radio 538 Classics" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09.mp3" icon="https://i.imgur.com/vXBZ0CD.png" text="Radio 538 Non-Stop" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR06.mp3" icon="https://i.imgur.com/BVdQD67.png" text="Radio 538 Zomer" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR11.mp3" icon="https://i.imgur.com/wuU3qpZ.png" text="Radio 538 Hitzone" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR01.mp3" icon="https://i.imgur.com/EQGwLGt.png" text="Radio 538 Dance Department" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR13.mp3" icon="https://i.imgur.com/2z4AjJE.png" text="Radio 538 Top 50" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR19.mp3" icon="https://i.imgur.com/KS4g96d.png" text="Radio 538 Ibiza" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16.mp3" icon="https://i.imgur.com/krie0mH.png" text="Radio 538 Party" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21.mp3" icon="https://i.imgur.com/UtIYpSe.png" text="Radio 538 90's" type="audio" />
+    </outline>
+    <outline icon="https://i.imgur.com/Q5GXrmx.png" text="Radio - Radio 10">
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3" icon="https://i.imgur.com/iehkBal.png" text="Radio 10" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18.mp3" icon="https://i.imgur.com/KGXbkNe.png" text="Radio 10 60's &amp; 70's Hits" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR20.mp3" icon="https://i.imgur.com/M5YZosr.png" text="Radio 10 80's Hits" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR22.mp3" icon="https://i.imgur.com/PqqNeIS.png" text="Radio 10 90's hits" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR23.mp3" icon="https://i.imgur.com/fvSC4ui.png" text="Radio 10 Disco Classics" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR04.mp3" icon="https://i.imgur.com/o6Hyotg.png" text="Radio 10 Love Songs" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR15.mp3" icon="https://i.imgur.com/idDJ4BF.png" text="Radio 10 Non-Stop" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR24.mp3" icon="https://i.imgur.com/OBjqkh5.png" text="Radio 10 Top 4000" type="audio" />
+    </outline>
+    <outline icon="https://i.imgur.com/BxM4YpA.png" text="Radio - Qmusic">
+      <outline URL="https://stream.qmusic.nl/qmusic/aachigh" icon="https://i.imgur.com/BxM4YpA.png" text="Qmusic" type="audio" />
+      <outline URL="https://stream.qmusic.nl/nederlandstalig/aachigh" icon="https://i.imgur.com/qMdvnoL.png" text="Qmusic Nederlandstalig" type="audio" />
+      <outline URL="https://stream.qmusic.nl/fouteuur/aachigh" icon="https://i.imgur.com/S7LXTJd.png" text="Qmusic Foute Uur" type="audio" />
+      <outline URL="https://stream.qmusic.nl/nonstop/aachigh" icon="https://i.imgur.com/TiJMWYQ.png" text="Qmusic Non Stop" type="audio" />
+      <outline URL="https://stream.qmusic.nl/thema/aachigh" icon="https://i.imgur.com/wf4kyIf.png" text="Qmusic Christmas" type="audio" />
+      <outline URL="https://stream.qmusic.nl/top40/aachigh" icon="https://i.imgur.com/735k85q.png" text="Qmusic Top 40" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_WORLD_RADIO_NL.mp3" icon="https://i.imgur.com/iw7WsI0.png" text="Qmusic One World Radio" type="audio" />
+    </outline>
+    <outline icon="https://i.imgur.com/2ttQXIG.png" text="Radio - Sky Radio">
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3" icon="https://i.imgur.com/FFcRL7k.png" text="Sky Radio" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01.mp3" icon="https://i.imgur.com/B1cAztH.png" text="Sky Radio Hits" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR07.mp3" icon="https://i.imgur.com/BK8jwT0.png" text="Sky Radio Nice &amp; Easy" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR03.mp3" icon="https://i.imgur.com/3QvzDdF.png" text="Sky Radio Love Songs" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR08.mp3" icon="https://i.imgur.com/sVtlfTB.png" text="Sky Radio Christmas" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR24.mp3" icon="https://i.imgur.com/YSlZJ3U.png" text="Sky Radio Non-Stop@Work" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR15.mp3" icon="https://i.imgur.com/1eYhosn.png" text="Sky Radio Smooth Hits" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04.mp3" icon="https://i.imgur.com/xHjro5N.png" text="Sky Radio 80's Hits" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR05.mp3" icon="https://i.imgur.com/HWXQKC4.png" text="Sky Radio 90's Hits" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR28.mp3" icon="https://i.imgur.com/dl8lXFT.png" text="Sky Radio Summer Hits" type="audio" />
+    </outline>
+    <outline icon="https://i.imgur.com/y9TELVn.png" text="Radio - SLAM!">
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/SLAM_.mp3" icon="https://i.imgur.com/bzlKHPM.png" text="SLAM!" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/WEB10_.mp3" icon="https://i.imgur.com/CFvAgY7.png" text="SLAM! Non-Stop" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/WEB16_.mp3" icon="https://i.imgur.com/X31Ljhx.png" text="SLAM! Housuh In De Pauzuh" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/WEB14_.mp3" icon="https://i.imgur.com/kYFXOna.png" text="SLAM! 40" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/WEB15_.mp3" icon="https://i.imgur.com/qs3bwR8.png" text="SLAM! 00's" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/WEB11_.mp3" icon="https://i.imgur.com/OHAoV0A.png" text="SLAM! Hardstyle" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/WEB12_.mp3" icon="https://i.imgur.com/M4us2Vq.png" text="SLAM! The Boom Room" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/WEB13_.mp3" icon="https://i.imgur.com/vN8yi8n.png" text="SLAM! MixMarathon" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/WEB09_.mp3" icon="https://i.imgur.com/DTncfTu.png" text="SLAM! Juize" type="audio" />
+    </outline>
+    <outline icon="https://i.imgur.com/FcH8Y7h.png" text="Radio - Christmas">
+      <outline URL="http://opml.radiotime.com/Tune.ashx?id=s89763&amp;formats=aac,ogg,mp3,wmpro,wma,wmvoice&amp;partnerId=16&amp;serial=4267ff619755223954eab3f23a93df5f" icon="https://i.imgur.com/vyLjdEQ.png" text="1.FM Always-Christmas Radio - [The holiday season never stops here]" type="audio" />
+      <outline URL="https://stream.qmusic.nl/thema/aachigh" icon="https://i.imgur.com/wf4kyIf.png" text="Qmusic Christmas" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR08.mp3" icon="https://i.imgur.com/sVtlfTB.png" text="Sky Radio Christmas" type="audio" />
+    </outline>
+    <outline icon="https://i.imgur.com/BCmIMB9.png" text="Radio - NPO">
+      <outline URL="https://icecast.omroep.nl/radio1-bb-mp3" icon="https://i.imgur.com/qTyj9s9.png" text="Radio NPO 1" type="audio" />
+      <outline URL="https://icecast.omroep.nl/radio2-bb-mp3" icon="https://i.imgur.com/6O5Aupi.png" text="Radio NPO 2" type="audio" />
+      <outline URL="https://icecast.omroep.nl/3fm-bb-mp3" icon="https://i.imgur.com/48v83lH.png" text="Radio NPO 3" type="audio" />
+    </outline>
+    <outline icon="https://i.imgur.com/aLAC8aJ.png" text="Radio - Veronica">
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.mp3" icon="https://i.imgur.com/pppV8ge.png" text="Radio Veronica" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR09.mp3" icon="https://i.imgur.com/Evb3Rsp.png" text="Radio Vintage Veronica" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR11.mp3" icon="https://i.imgur.com/dv0ZiEK.png" text="Veronica Rock Radio" type="audio" />
+      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR10.mp3" icon="https://i.imgur.com/ZIuOZTv.png" text="Veronica Top 1000 Allertijden" type="audio" />
+    </outline>
+    <outline icon="https://i.imgur.com/lRCxhgm.png" text="Spotify - Efteling">
+      <outline icon="https://i.imgur.com/hNmuQQL.png" text="Musical">
+        <outline URL="spotify:album:2l6rdUe31KoXhUuo1YnDkN" icon="/imageproxy/https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b273f91dd8843cf9f829ab5c141d/image.png" text="Sprookjesboom de Musical (2012) by Efteling" type="playlist" />
+        <outline URL="spotify:album:5j2Q7dxviz3sbnEtwKNhi1" icon="/imageproxy/https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b273b20bdcf2de4e1107238ce0f4/image.png" text="Sprookjesboom De Musical: Een Gi-Ga-Gantisch Avontuur (2012) by Efteling" type="playlist" />
+        <outline URL="spotify:album:71d88Z02dmAzWGCJFj4dSf" icon="/imageproxy/https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b273a6b035bd4d8dd4f549f03b95/image.png" text="Sprookjesboom de Musical: Een Wonderlijk Muziekfeest (2014) by Efteling" type="playlist" />
+      </outline>
+      <outline icon="https://i.imgur.com/g3le9i9.png" text="Sprookjes">
+        <outline URL="spotify:album:4XN4yImekrGNWvjRYxBunL" icon="/imageproxy/https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2737fd409a26b0ab8eb9a94bb65/image.png" text="Sprookjes Van De Efteling - Deel 1 (1970) by Various Artists" type="playlist" />
+        <outline URL="spotify:album:0JVv8J4eugYRpsTqny5ttm" icon="/imageproxy/https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2733f9c81bc0b56a7009af8ddf8/image.png" text="Sprookjes Van De Efteling - Deel 2 (1970) by Various Artists" type="playlist" />
+        <outline URL="spotify:album:1iBR0vhMYrDNmOQipDFX1U" icon="/imageproxy/https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b273c79c7f001fd7d73af5a2f862/image.png" text="Sprookjes Van De Efteling - Deel 3 (1970) by Various Artists" type="playlist" />
+        <outline URL="spotify:album:4qH2INimdPr1Lnk7S3oMqp" icon="/imageproxy/https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b273494361a0498b7695672c5046/image.png" text="Sprookjes Van De Efteling - Deel 4 (1970) by Sprookjes Van De Efteling" type="playlist" />
+        <outline URL="spotify:album:0Ca8qg0IYQwjTCRLRYvwcn" icon="/imageproxy/https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b273798d14c45cd0e1a1069a3635/image.png" text="Sprookjes Van De Efteling - Deel 5 (1970) by Sprookjes Van De Efteling" type="playlist" />
+        <outline URL="spotify:album:6nY4tGggLdbNP9Ntlc0H6l" icon="/imageproxy/https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b273724a228c82ddcf2c86cbe601/image.png" text="Sprookjes Van De Efteling - Deel 6 (1970) by Sprookjes Van De Efteling" type="playlist" />
+        <outline URL="spotify:album:31SMcdvrmmYHYISootAEcL" icon="/imageproxy/https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b273657828406c1cf63d80e1d7b6/image.png" text="Sprookjes Van De Efteling - Deel 7 (1970) by Various Artists" type="playlist" />
+        <outline URL="spotify:album:5AoeHnW338QTkiCUqM7HwY" icon="/imageproxy/https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b273cd03f46ba05725db32317861/image.png" text="Sprookjes Van De Efteling - Deel 8 (1978) by Sprookjes Van De Efteling, De Kabouterboom, De Gekroonde Eend" type="playlist" />
+        <outline URL="spotify:album:4bwDZki0p0O0c0guAs2OCL" icon="/imageproxy/https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2737538482fa72674785496a761/image.png" text="Sprookjes Van De Efteling - Deel 9 (1971) by Sprookjes Van De Efteling" type="playlist" />
+      </outline>
+      <outline icon="https://i.imgur.com/KEErSSt.png" text="Muziek">
+        <outline URL="spotify:album:5o49PPhwsxjgGzmmGwnoL2" icon="/imageproxy/https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2732b4cdde987ef4afb646e365a/image.png" text="Sprookjesboom: Zing en dans mee! (2013) by Efteling" type="playlist" />
+        <outline URL="spotify:album:1XHoTrSkrDKiuHsRbpc3lz" icon="/imageproxy/https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b273b91ba16617f023bf28cb1d5b/image.png" text="Wonderlijke Efteling Muziek (2012) by Efteling" type="playlist" />
+        <outline URL="spotify:album:0lvAaz3KNJr5VpASg7MUJX" icon="/imageproxy/https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2731542b6221f37cee75d5e1230/image.png" text="Betoverende Efteling Melodieën (2013) by Efteling" type="playlist" />
+      </outline>
+    </outline>
+  </body>
+</opml>
