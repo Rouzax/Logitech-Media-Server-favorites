@@ -46,7 +46,7 @@
       <outline URL="http://opml.radiotime.com/Tune.ashx?id=s74987&amp;formats=aac,ogg,mp3,wmpro,wma,wmvoice&amp;partnerId=16&amp;serial=4267ff619755223954eab3f23a93df5f" icon="https://i.imgur.com/WPTisvB.png" text="1.FM Disco Ball 70's-80's Radio - [Taking you back to the days of Disco]" type="audio" />
       <outline URL="http://opml.radiotime.com/Tune.ashx?id=s74985&amp;formats=aac,ogg,mp3,wmpro,wma,wmvoice&amp;partnerId=16&amp;serial=4267ff619755223954eab3f23a93df5f" icon="https://i.imgur.com/z0j2BnS.png" text="1.FM Absolute 90s Radio - [A throwback to the 20th century's wrap-up decade with only the best music of the 90s covering all genres]" type="audio" />
       <outline URL="http://opml.radiotime.com/Tune.ashx?id=s89763&amp;formats=aac,ogg,mp3,wmpro,wma,wmvoice&amp;partnerId=16&amp;serial=4267ff619755223954eab3f23a93df5f" icon="https://i.imgur.com/vyLjdEQ.png" text="1.FM Always-Christmas Radio - [The holiday season never stops here]" type="audio" />
-      <outline URL="http://opml.radiotime.com/Tune.ashx?id=s309722&amp;formats=aac,ogg,mp3,wmpro,wma,wmvoice&amp;partnerId=16&amp;serial=4267ff619755223954eab3f23a93df5f" icon="https://i.imgur.com/n0H2s7l.png" text="1.FM Costa Del Mar - [Vibe out to ambient and lounge music. Costa Del Mar is easy listening inspired by the sea]" type="audio" />
+      <outline URL="https://strm112.1.fm/costadelmarchillout_mobile_mp3?aw_0_req.gdpr=true" icon="/imageproxy/https%3A%2F%2Fi.imgur.com%2Fn0H2s7l.png/image.png" text="1.FM Costa Del Mar - [Vibe out to ambient and lounge music. Costa Del Mar is easy listening inspired by the sea]" type="audio" />
     </outline>
     <outline icon="https://i.imgur.com/orb5crh.png" text="Radio - Radio 538">
       <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3" icon="https://i.imgur.com/UBM3Kcj.png" text="Radio 538" type="audio" />
@@ -91,16 +91,21 @@
       <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR05.mp3" icon="https://i.imgur.com/HWXQKC4.png" text="Sky Radio 90's Hits" type="audio" />
       <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR28.mp3" icon="https://i.imgur.com/dl8lXFT.png" text="Sky Radio Summer Hits" type="audio" />
     </outline>
+    <outline icon="https://i.imgur.com/qwB3mmP.png" text="Radio - Tomorrowland">
+      <outline URL="http://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.aac" icon="https://i.imgur.com/YEQRKTU.png" text="One World Radio" type="audio" />
+      <outline URL="http://playerservices.streamtheworld.com/api/livestream-redirect/OWR_DAYBREAK_ADP.aac" icon="https://i.imgur.com/G7I18C6.png" text="Daybreak Sessions" type="audio" />
+      <outline URL="http://playerservices.streamtheworld.com/api/livestream-redirect/OWR_DAB_ADP.aac" icon="https://i.imgur.com/4s1jB4F.png" text="Tomorrowland Anthems" type="audio" />
+    </outline>
     <outline icon="https://i.imgur.com/y9TELVn.png" text="Radio - SLAM!">
-      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/SLAM_.mp3" icon="https://i.imgur.com/bzlKHPM.png" text="SLAM!" type="audio" />
-      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/WEB10_.mp3" icon="https://i.imgur.com/CFvAgY7.png" text="SLAM! Non-Stop" type="audio" />
-      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/WEB16_.mp3" icon="https://i.imgur.com/X31Ljhx.png" text="SLAM! Housuh In De Pauzuh" type="audio" />
-      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/WEB14_.mp3" icon="https://i.imgur.com/kYFXOna.png" text="SLAM! 40" type="audio" />
-      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/WEB15_.mp3" icon="https://i.imgur.com/qs3bwR8.png" text="SLAM! 00's" type="audio" />
-      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/WEB11_.mp3" icon="https://i.imgur.com/OHAoV0A.png" text="SLAM! Hardstyle" type="audio" />
-      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/WEB12_.mp3" icon="https://i.imgur.com/M4us2Vq.png" text="SLAM! The Boom Room" type="audio" />
-      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/WEB13_.mp3" icon="https://i.imgur.com/vN8yi8n.png" text="SLAM! MixMarathon" type="audio" />
-      <outline URL="https://playerservices.streamtheworld.com/api/livestream-redirect/WEB09_.mp3" icon="https://i.imgur.com/DTncfTu.png" text="SLAM! Juize" type="audio" />
+      <outline URL="https://stream.slam.nl/slam_mp3" icon="https://i.imgur.com/bzlKHPM.png" text="SLAM!" type="audio" />
+      <outline URL="https://stream.slam.nl/web10_mp3" icon="https://i.imgur.com/CFvAgY7.png" text="SLAM! Non-Stop" type="audio" />
+      <outline URL="https://stream.slam.nl/WEB16_mp3" icon="https://i.imgur.com/X31Ljhx.png" text="SLAM! Housuh In De Pauzuh" type="audio" />
+      <outline URL="https://stream.slam.nl/WEB14_mp3" icon="https://i.imgur.com/kYFXOna.png" text="SLAM! 40" type="audio" />
+      <outline URL="https://stream.slam.nl/WEB15_mp3" icon="https://i.imgur.com/qs3bwR8.png" text="SLAM! 00's" type="audio" />
+      <outline URL="https://stream.slam.nl/WEB11_mp3" icon="https://i.imgur.com/OHAoV0A.png" text="SLAM! Hardstyle" type="audio" />
+      <outline URL="https://stream.slam.nl/WEB12_mp3" icon="https://i.imgur.com/M4us2Vq.png" text="SLAM! The Boom Room" type="audio" />
+      <outline URL="https://stream.slam.nl/WEB13_mp3" icon="https://i.imgur.com/vN8yi8n.png" text="SLAM! MixMarathon" type="audio" />
+      <outline URL="https://stream.slam.nl/WEB09_mp3" icon="https://i.imgur.com/DTncfTu.png" text="SLAM! Juize" type="audio" />
     </outline>
     <outline icon="https://i.imgur.com/FcH8Y7h.png" text="Radio - Christmas">
       <outline URL="http://opml.radiotime.com/Tune.ashx?id=s89763&amp;formats=aac,ogg,mp3,wmpro,wma,wmvoice&amp;partnerId=16&amp;serial=4267ff619755223954eab3f23a93df5f" icon="https://i.imgur.com/vyLjdEQ.png" text="1.FM Always-Christmas Radio - [The holiday season never stops here]" type="audio" />
@@ -125,6 +130,7 @@
         <outline URL="spotify:album:71d88Z02dmAzWGCJFj4dSf" icon="/imageproxy/https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b273a6b035bd4d8dd4f549f03b95/image.png" text="Sprookjesboom de Musical: Een Wonderlijk Muziekfeest (2014) by Efteling" type="playlist" />
       </outline>
       <outline icon="https://i.imgur.com/g3le9i9.png" text="Sprookjes">
+        <outline URL="spotify:playlist:5ty6pIBx31qQuFqUaCr3RI" icon="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84abe31aaa41b008c3d7759604" text="Gouden Verhalen uit de Efteling" type="playlist" />
         <outline URL="spotify:album:4XN4yImekrGNWvjRYxBunL" icon="/imageproxy/https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2737fd409a26b0ab8eb9a94bb65/image.png" text="Sprookjes Van De Efteling - Deel 1 (1970) by Various Artists" type="playlist" />
         <outline URL="spotify:album:0JVv8J4eugYRpsTqny5ttm" icon="/imageproxy/https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2733f9c81bc0b56a7009af8ddf8/image.png" text="Sprookjes Van De Efteling - Deel 2 (1970) by Various Artists" type="playlist" />
         <outline URL="spotify:album:1iBR0vhMYrDNmOQipDFX1U" icon="/imageproxy/https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b273c79c7f001fd7d73af5a2f862/image.png" text="Sprookjes Van De Efteling - Deel 3 (1970) by Various Artists" type="playlist" />
@@ -141,5 +147,6 @@
         <outline URL="spotify:album:0lvAaz3KNJr5VpASg7MUJX" icon="/imageproxy/https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2731542b6221f37cee75d5e1230/image.png" text="Betoverende Efteling Melodieën (2013) by Efteling" type="playlist" />
       </outline>
     </outline>
+    <outline URL="http://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.aac" icon="html/images/radio.png" text="TEst" type="audio" />
   </body>
 </opml>
